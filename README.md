@@ -2,8 +2,8 @@
 
 > This is MY page.
 
-But I didn't decide to display what on my page yet.
-Maybe It will stay blank until I remember and have energy to fill it.
+But I haven't decided to display what on my page yet.
+Maybe It will stay blank until I remember and have energy to deal with it.
 
 *I'm working hard to take my course notes with MarkDown and may share **them** someday.*
 
