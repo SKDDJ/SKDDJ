@@ -20,5 +20,7 @@ Maybe some articles will be like:
 * backend
   * golang
   * python
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKDDJ)](https://github.com/SKDDJ/github-readme-stats)
+
 Have a nice day! :smile:
