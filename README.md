@@ -5,23 +5,28 @@
 But I haven't decided to display what on my page yet.
 Maybe It will stay blank until I remember and have energy to deal with it.
 
-*I'm working hard to take my course notes with MarkDown and may share **them** someday.*
+~~*I'm working hard to take my course notes with MarkDown and may share **them** someday.*~~
 
-The followings are names of the courses:
+Well I use Hexo to set my own blog here: [shiym.top](https://shiym.top)
+
+All my notes and experience have been settled this site.
+
+The followings are names of some of the courses:
 * 📘Economics
 * 📝Probability
 * 💻The Computer Composition
 * 🖥️The Computer Network
+* 🧬Data Structure and Algorithm
 
 
 And I'm going to put some learning experience about code, study etc on GitHub.
 Maybe some articles will be like:
 * front
-  * html,css,js
+  * `html`,`css`,`js`
+  * maybe I will try to touch `vue` or `react` when I can spare some time
 * backend
   * golang
   * python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKDDJ)](https://github.com/SKDDJ/github-readme-stats)
 
 Have a nice day! :smile:
