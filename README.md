@@ -12,14 +12,6 @@ In addition, I use Hexo to set my own blog here: shiym.top
 
 All my notes and experience have been settled on this site.
 
-The following are names of some of the courses:
-
-📘Economics
-📝Probability
-💻The Computer Composition
-🖥️The Computer Network
-🧬Data Structure and Algorithm
-
 
 Moreover, I am going to put some learning experience about code, study etc on GitHub.
 For example, some articles will be like:
