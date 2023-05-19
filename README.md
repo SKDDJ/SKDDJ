@@ -1,22 +1,17 @@
-# Hi, there， I'm Shiym :hand:
+# Hi there, I'm Shiym! :wave:
 
+> Welcome to my page.
 
-> This is my page.
+However, I haven't made a decision yet on what to showcase here.
+It might remain empty until I recall and gather enough energy to work on it.
 
-However, I have not decided what to display on my page yet.
-Maybe it will stay blank until I remember and have enough energy to deal with it.
+I'm diligently taking course notes using Markdown, and I may share them in the future. (By the way, my blog is hosted both on my server in CN and GitHub Pages, accessible at http://shiym.top. If you access the website through foreign proxies, it can speed up the access.)
 
-I work hard to take my course notes with MarkDown and may share them someday.
+This site contains all my notes and experiences.
 
-In addition, I use Hexo to set my own blog here: shiym.top
+Furthermore, I plan to share some learning experiences related to coding, studying, and more on GitHub.
+For instance, I'll write articles on topics like:
+- Backend: Golang, Python...
+- DevOps: Docker...
 
-All my notes and experience have been settled on this site.
-
-
-Moreover, I am going to put some learning experience about code, study etc on GitHub.
-For example, some articles will be like:
-backend: Golang, Python...
-DevOps: Docker...
-
-
-Have a nice day! :smile:
+Wishing you a wonderful day! :smile:
