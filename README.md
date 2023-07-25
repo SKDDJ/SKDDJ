@@ -5,7 +5,7 @@
 However, I haven't made a decision yet on what to showcase here.
 It might remain empty until I recall and gather enough energy to work on it.
 
-I'm diligently taking course notes using Markdown, and I may share them in the future. (By the way, my blog is hosted both on my server in CN and GitHub Pages, accessible at http://shiym.top. If you access the website through foreign proxies, it can speed up the access.)
+I'm diligently taking course notes using Markdown, and I may share them in the future. (By the way, my blog is hosted both on my server in CN and GitHub Pages, accessible at https://shiym.top. If you access the website through foreign proxies, it can speed up the access.)
 
 This site contains all my notes and experiences.
 
