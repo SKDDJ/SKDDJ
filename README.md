@@ -1,5 +1,5 @@
 <!-- 个人简介 -->
-# Hi there, I'm ShiYiming! :wave:
+# Hi there
 
 
 <div align="center">
