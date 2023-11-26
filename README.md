@@ -64,7 +64,7 @@
 - [Star Studio at UESTC](https://github.com/StarStudio) &emsp; 📌 2022-11-23 —— Present
 
   - Position: DevOps Team Member
-  - Responsibilities: Operations and maintenance for the in-house forum "QingShuiHePan" at the University of Electronic Science and Technology.
+  - Responsibilities: Operations and maintenance for the in-house forum "清水河畔" at the University of Electronic Science and Technology of China.
 
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202311032058566.jpg" />
 
