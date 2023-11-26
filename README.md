@@ -61,17 +61,17 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/11435014" />
 
-- [Star Studio](https://github.com/StarStudio) &emsp; 📌 2022-11-23 —— Present
+- [Star Studio at UESTC](https://github.com/StarStudio) &emsp; 📌 2022-11-23 —— Present
 
   - Position: DevOps Team Member
   - Responsibilities: Operations and maintenance for the in-house forum "QingShuiHePan" at the University of Electronic Science and Technology.
 
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202311032058566.jpg" />
 
-- [Future Media Research Center](https://cfm.uestc.edu.cn/index) &emsp; 📌 2023-5-31 —— Present
+- [Future Media Research Center at UESTC Department of CS](https://cfm.uestc.edu.cn/index) &emsp; 📌 2023-5-31 —— Present
 
   - Position: Research Training
-  - Training Focus: Efficient parameter fine-tuning of large-scale models and cross-modal interactions.
+  - Training Focus: Efficient parameter fine-tuning of large-multimodal models and cross-modal interactions.
 
 <tr><td>
 
