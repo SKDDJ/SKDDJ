@@ -19,9 +19,6 @@
     <img src="https://komarev.com/ghpvc/?username=SKDDJ&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SKDDJ&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
 <table>
 <tr><td>
 
@@ -111,8 +108,13 @@
 * <a href='https://shiym.top/article/f1b79b2a' target='_blank'>金融衍生工具</a> - 2023-07-01
 <!-- END_SECTION:blog -->
 
+### 📈 GitHub Statistics
+![Contribution Graph](https://github-readme-activity-graph-ebon.vercel.app/graph?username=SKDDJ&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
 </td></tr>
 
 Welcome to my page, where I aim to connect technology with business value and share my insights and experiences. Wishing you a fantastic day! 😊
 
+
+![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=SKDDJ&theme=github_dark&show_icons=true&count_private=true)
+![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=SKDDJ&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
