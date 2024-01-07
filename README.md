@@ -19,16 +19,39 @@
     <img src="https://komarev.com/ghpvc/?username=SKDDJ&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SKDDJ&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 <table>
 <tr><td>
 
+
 <!-- About me 关于我 -->
 ### 🤺 About Me
-
+### :fist: Technologies
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![Go](https://shields.io/badge/go-007d9c?style=for-the-badge&logo=go&logoColor=ffffff)](https://go.dev/)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![PostgreSQL](https://shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Linux](https://shields.io/badge/linux-185886?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![HTTP](https://shields.io/badge/http-000000?style=for-the-badge&logo=w3c&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+[![Docker](https://shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![Vercel](https://shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://vercel.com/)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <img align="right" width="88" src="https://shiym.top/medias/avatar.png" />
 
 
