@@ -18,6 +18,9 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=SKDDJ&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+  
+![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=SKDDJ&theme=github_dark&show_icons=true&count_private=true)
+![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=SKDDJ&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
 <table>
 <tr><td>
@@ -115,6 +118,4 @@
 Welcome to my page, where I aim to connect technology with business value and share my insights and experiences. Wishing you a fantastic day! 😊
 
 
-![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=SKDDJ&theme=github_dark&show_icons=true&count_private=true)
-![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=SKDDJ&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
