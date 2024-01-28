@@ -112,7 +112,7 @@
 ### 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=SKDDJ&theme=github_dark&show_icons=true&count_private=true)
-![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=SKDDJ&layout=compact&hide=html&theme=github_dark&langs_count=8)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SKDDJ&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
 ![Contribution Graph](https://github-readme-activity-graph-ebon.vercel.app/graph?username=SKDDJ&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
 
