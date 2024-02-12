@@ -61,7 +61,14 @@
 
 <p>&emsp;&emsp;- 💞️ I am committed to harnessing the potential of artificial intelligence for societal benefit. My interests lie in AI and web development technologies, and I continually enhance my skills through independent thinking and high-quality information absorption. I hope to engage in discussions, share valuable insights, and assist others in realizing their business goals. Through my efforts and knowledge, I aim to enable artificial intelligence to play a significant role in our ever-evolving society.</p>
 
-<p>&emsp;&emsp;- 📫 How to reach me? Email: yimingshi666@gmail.com</p>
+<p>&emsp;&emsp;- 📫 How to reach me? Feel free to <a href="mailto:yimingshi666@gmail.com">send me an email(yimingshi666@gmail.com</a></p>
+
+<p>&emsp;&emsp;- 📱 My WeChat QRCode (scan to connect):</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg" alt="WeChat QRCode" width="200" height="200">
+</p>
+
+
 
 
 <p><strong>&emsp;&emsp;We're working towards making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
