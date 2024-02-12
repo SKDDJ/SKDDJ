@@ -84,24 +84,26 @@
 
 - [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) &emsp; 📌 2021-08-20 —— Present
 
-  - Major: Dual Degree in Finance and Computer Science & Technology
+  - Postion: Postgraduate
+  -  Major: Dual Degree in Finance and Computer Science & Technology
   - Curriculum: Integrating Finance with STEM
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/11435014" />
 
-- [Star Studio at UESTC](https://github.com/StarStudio) &emsp; 📌 2022-11-23 —— Present
+- [Star Studio, UESTC](https://github.com/StarStudio) &emsp; 📌 2022-11-23 —— Present
 
   - Position: DevOps Team Member
   - Responsibilities: Operations and maintenance for the in-house forum "清水河畔" at the University of Electronic Science and Technology of China.
 
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202311032058566.jpg" />
 
-- [Future Media Research Center at UESTC Department of CS](https://cfm.uestc.edu.cn/index) &emsp; 📌 2023-5-31 —— Present
+- [Center for Future Media, Department of Computer Science, UESTC](https://cfm.uestc.edu.cn/index) &emsp; 📌 2023-5-31 —— Present
 
   - Position: Research Training
-  - Training Focus: Efficient parameter fine-tuning of large-multimodal models and cross-modal interactions.
+  - Training Focus: Fine-tuning of parameters for large-scale multimodal models and investigation into cross-modal interactions.
 
 <tr><td>
+
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
