@@ -53,7 +53,7 @@
 <img align="right" width="88" src="https://shiym.top/medias/avatar.png" />
 
 
-<p>&emsp;&emsp;- 👋 Hi, I’m @Eamon, a undergraduate at the University of Electronic Science and Technology of China(UESTC). I hold dual degrees in Finance and Computer Science & Technology. I am a member of the DevOps team at the on-campus Star Studio and a member of the university's FutureMedia laboratory studying multimodal, and I'm deeply passionate about artificial intelligence.</p>
+<p>&emsp;&emsp;- 👋 Hi, I’m @Eamon, an undergraduate at the University of Electronic Science and Technology of China(UESTC). I hold dual degrees in Finance and Computer Science & Technology. I am a member of the DevOps team at the on-campus Star Studio and a member of the university's FutureMedia laboratory studying multimodal, and I'm deeply passionate about artificial intelligence.</p>
 
 <p>&emsp;&emsp;- 👀 I thrive on bridging the gap between technology and business value, leveraging my outstanding project management skills and excellent interpersonal communication abilities. I have a keen ability to rapidly learn and integrate various resources. I delve into the technical aspects of the computer science department and the business capabilities of the management school, with a focus on fostering positive industry-academia research collaboration.</p>
 
