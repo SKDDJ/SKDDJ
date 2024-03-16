@@ -99,9 +99,10 @@
 
 - [Center for Future Media, Department of Computer Science, UESTC](https://cfm.uestc.edu.cn/index) &emsp; 📌 2023-5-31 —— Present
 
-  - Position: Research Training
-  - Training Focus: Fine-tuning of parameters for large-scale multimodal models and investigation into cross-modal interactions.
-
+  - Position: Research Trainee
+  - Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao
+  )
+  - Training Focus: Fine-tuning of parameters for large-scale multimodal models and investigating into cross-modal interactions.
 <tr><td>
 
 
