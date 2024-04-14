@@ -34,6 +34,8 @@
 [![PostgreSQL](https://shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Lightning](https://img.shields.io/badge/Pytorch-Lightning-792ee5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-003f8c?style=for-the-badge&logo=pytorchlightning&logoColor=ffffff)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 [![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
