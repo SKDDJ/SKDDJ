@@ -55,14 +55,46 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <img align="right" width="88" src="https://shiym.top/medias/avatar.png" />
 
+Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Program** at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), majoring in **Finance** and **Computer Science and Technology**.
 
-<p>&emsp;&emsp;- 👋 Hi, I’m @Eamon, an undergraduate at the University of Electronic Science and Technology of China(UESTC). I hold dual degrees in Finance & Computer Science and Technology. I am a member of the DevOps team at the on-campus Star Studio and a member of the university's FutureMedia laboratory studying multimodal, and I'm deeply passionate about artificial intelligence.</p>
+### 🌟 About Me
 
-<p>&emsp;&emsp;- 👀 I thrive on bridging the gap between technology and business value, leveraging my outstanding project management skills and excellent interpersonal communication abilities. I have a keen ability to rapidly learn and integrate various resources. I delve into the technical aspects of the computer science department and the business capabilities of the management school, with a focus on fostering positive industry-academia research collaboration.</p>
+- 👀 I thrive on bridging the gap between technology and business value, leveraging my project management skills and interpersonal communication abilities.
+- 🌱 I have a unique blend of technical knowledge and understanding of business implementation, which sets me apart.
+- 💞️ I'm committed to harnessing the potential of AI for societal benefit and continually enhancing my skills through independent thinking and high-quality information absorption.
 
-<p>&emsp;&emsp;- 🌱 My unique blend of technical knowledge and understanding of the core values of business implementation sets me apart. I embrace challenges and overcome them with my strong interpersonal communication skills.</p>
 
-<p>&emsp;&emsp;- 💞️ I am committed to harnessing the potential of artificial intelligence for societal benefit. My interests lie in AI and web development technologies, and I continually enhance my skills through independent thinking and high-quality information absorption. I hope to engage in discussions, share valuable insights, and assist others in realizing their business goals. Through my efforts and knowledge, I aim to enable artificial intelligence to play a significant role in our ever-evolving society.</p>
+### 🔭 Current Position
+<img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202407161953380.png" />
+
+- **[TSAIL, Tsinghua University](https://ml.cs.tsinghua.edu.cn/)** &emsp; 📌 2024-7-1 — Present
+  - Position: **Research Intern**
+  - Co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en)
+  - Focus: parameter-efficient fine-tuning(PEFT), Diffusion, Weight2Weight
+
+### 🚀 Previous Experience
+
+<img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202311032058566.jpg" />
+
+- **[Center for Future Media, UESTC](https://cfm.uestc.edu.cn/index)** &emsp; 📌 2023-5-31 — Present
+  - Position: **Research Intern**
+  - Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
+  - Focus: Fine-tuning large multimodal models and investigating cross-modal interactions
+
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/11435014" />
+
+- **[Star Studio, UESTC](https://github.com/StarStudio)** &emsp; 📌 2022-11-23 — Present
+  - Position: **DevOps Team Member**
+  - Responsibilities: Operations and maintenance for the in-house forum "清水河畔" at UESTC
+
+### 🔬 Research Interests
+
+My research focuses on:
+- **Parameter-efficient fine-tuning (PEFT)**
+- **Diffusion**
+- **Multimodal**
+
+I'm deeply passionate about deep learning and artificial intelligence.
 
 <p>&emsp;&emsp;- 📫 How to reach me? Feel free to send me an email <a href="mailto:yimingshi666@gmail.com">yimingshi666@gmail.com</a></p>
 
@@ -71,43 +103,21 @@
   <img src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg" alt="WeChat QRCode" width="200" height="200">
 </p>
 
-
-
-
 <p><strong>&emsp;&emsp;We're working towards making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
 <tr>
 <td>
-  
-### 🏢 Study Experience
+
+
+## 🏢 Education
 
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202310281910558.jpg" />
 
-- [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) &emsp; 📌 2021-08-20 —— Present
-
-  - Postion: Postgraduate
-  -  Major: Dual Degree in Finance and Computer Science & Technology
-  - Curriculum: Integrating Finance with STEM
-
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/11435014" />
-
-- [Star Studio, UESTC](https://github.com/StarStudio) &emsp; 📌 2022-11-23 —— Present
-
-  - Position: DevOps Team Member
-  - Responsibilities: Operations and maintenance for the in-house forum "清水河畔" at the University of Electronic Science and Technology of China.
-
-<img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202311032058566.jpg" />
-
-- [Center for Future Media, Department of Computer Science, UESTC](https://cfm.uestc.edu.cn/index) &emsp; 📌 2023-5-31 —— Present
-
-  - Position: Research Trainee
-  - Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao
-  )
-  - Training Focus: Fine-tuning of parameters for large-scale multimodal models and investigating into cross-modal interactions.
-<tr><td>
-
+- **[University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)** &emsp; 📌 2021-08-20 — Present
+  - Position: Undergraduate
+  - Major: Dual Degree in Finance & Computer Science and Technology
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
