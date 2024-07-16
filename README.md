@@ -27,6 +27,8 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
+Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Program** at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), majoring in **Finance** and **Computer Science and Technology**.
+
 ### :fist: Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [![Go](https://shields.io/badge/go-007d9c?style=for-the-badge&logo=go&logoColor=ffffff)](https://go.dev/)
@@ -54,15 +56,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <img align="right" width="88" src="https://shiym.top/medias/avatar.png" />
-
-Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Program** at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), majoring in **Finance** and **Computer Science and Technology**.
-
-### 🌟 About Me
-
-- 👀 I thrive on bridging the gap between technology and business value, leveraging my project management skills and interpersonal communication abilities.
-- 🌱 I have a unique blend of technical knowledge and understanding of business implementation, which sets me apart.
-- 💞️ I'm committed to harnessing the potential of AI for societal benefit and continually enhancing my skills through independent thinking and high-quality information absorption.
-
 
 ### 🔭 Current Position
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202407161953380.png" />
@@ -109,7 +102,6 @@ I'm deeply passionate about deep learning and artificial intelligence.
 
 <tr>
 <td>
-
 
 ## 🏢 Education
 
