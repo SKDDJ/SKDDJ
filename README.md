@@ -71,7 +71,7 @@ Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Pro
 
 - **[Center for Future Media, UESTC](https://cfm.uestc.edu.cn/index)** &emsp; 📌 2023-5-31 — Present
   - Position: **Research Intern**
-  - Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
+  - Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Dr. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
   - Focus: Fine-tuning large multimodal models and investigating cross-modal interactions
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/11435014" />
