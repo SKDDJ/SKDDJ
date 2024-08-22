@@ -63,7 +63,7 @@ Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Pro
 - **[TSAIL, Tsinghua University](https://ml.cs.tsinghua.edu.cn/)** &emsp; 📌 2024-7-1 — Present
   - Position: **Research Intern**
   - Co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en)
-  - Focus: parameter-efficient fine-tuning(PEFT), Diffusion, Weight2Weight
+  - Focus: Parameter-Efficient Fine-Tuning(PEFT), Schrodinger Bridge, Diffusion, Weight2Weight
 
 ### 🚀 Previous Experience
 
@@ -78,12 +78,12 @@ Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Pro
 
 - **[Star Studio, UESTC](https://github.com/StarStudio)** &emsp; 📌 2022-11-23 — Present
   - Position: **DevOps Team Member**
-  - Responsibilities: Operations and maintenance for the in-house forum "清水河畔" at UESTC
+  - Responsibilities: Operations and maintenance for the official bbs "清水河畔" at UESTC
 
 ### 🔬 Research Interests
 
 My research focuses on:
-- **Parameter-efficient fine-tuning (PEFT)**
+- **Parameter-Efficient Fine-Tuning (PEFT)**
 - **Diffusion**
 - **Multimodal**
 
