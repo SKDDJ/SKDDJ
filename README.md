@@ -55,7 +55,7 @@ Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Pro
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-<img align="right" width="88" src="https://shiym.top/medias/avatar.png" />
+
 
 ### 🔭 Current Position
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202407161953380.png" />
