@@ -27,7 +27,7 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
-Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Program** at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), majoring in **Finance** and **Computer Science and Technology**.
+Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Program** at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), majoring in **Computer Science and Technology** and **Finance**.
 
 ### :fist: Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
