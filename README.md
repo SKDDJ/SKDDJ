@@ -108,8 +108,8 @@ I'm deeply passionate about deep learning and artificial intelligence.
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202310281910558.jpg" />
 
 - **[University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)** &emsp; 📌 2021-08-20 — Present
-  - Position: Undergraduate
-  - Major: Dual Degree in Finance & Computer Science and Technology
+  - Position: Undergraduate in Internet+ Program
+  - Double Major: Computer Science & Finance
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
