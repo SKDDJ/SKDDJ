@@ -3,13 +3,6 @@
 
 
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://shiym.top">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Eamon 史一鸣&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -128,9 +121,6 @@ I'm deeply passionate about deep learning and artificial intelligence.
 
 ![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=SKDDJ&theme=github_dark&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SKDDJ&layout=compact&hide=html&theme=github_dark&langs_count=8)
-
-![Contribution Graph](https://github-readme-activity-graph-ebon.vercel.app/graph?username=SKDDJ&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
-
 
 </td></tr>
 
