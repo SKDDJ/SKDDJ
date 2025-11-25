@@ -49,39 +49,6 @@ Hi, I'm Yiming Shi 👋. I'm an undergraduate in the **Internet+ Dual Degree Pro
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-
-### 🔭 Current Position
-<img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202407161953380.png" />
-
-- **[TSAIL, Tsinghua University](https://ml.cs.tsinghua.edu.cn/)** &emsp; 📌 2024-7-1 — Present
-  - Position: **Research Intern**
-  - Co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en)
-  - Focus: Parameter-Efficient Fine-Tuning(PEFT), Schrodinger Bridge, Diffusion, Weight2Weight
-
-### 🚀 Previous Experience
-
-<img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202311032058566.jpg" />
-
-- **[Center for Future Media, UESTC](https://cfm.uestc.edu.cn/index)** &emsp; 📌 2023-5-31 — Present
-  - Position: **Research Intern**
-  - Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Dr. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
-  - Focus: Fine-tuning large multimodal models and investigating cross-modal interactions
-
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/11435014" />
-
-- **[Star Studio, UESTC](https://github.com/StarStudio)** &emsp; 📌 2022-11-23 — Present
-  - Position: **DevOps Team Member**
-  - Responsibilities: Operations and maintenance for the official bbs "清水河畔" at UESTC
-
-### 🔬 Research Interests
-
-My research focuses on:
-- **Parameter-Efficient Fine-Tuning (PEFT)**
-- **Diffusion**
-- **Multimodal**
-
-I'm deeply passionate about deep learning and artificial intelligence.
-
 <p>&emsp;&emsp;- 📫 How to reach me? Feel free to send me an email <a href="mailto:yimingshi666@gmail.com">yimingshi666@gmail.com</a></p>
 
 <p>&emsp;&emsp;- 📱 My WeChat QRCode (scan to connect):</p>
@@ -95,27 +62,6 @@ I'm deeply passionate about deep learning and artificial intelligence.
 
 <tr>
 <td>
-
-## 🏢 Education
-
-<img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202310281910558.jpg" />
-
-- **[University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)** &emsp; 📌 2021-08-20 — Present
-  - Position: Undergraduate in Internet+ Program
-  - Double Major: Computer Science & Finance
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://shiym.top/article/a0d51f41' target='_blank'>金融学基础</a> - 2022-12-27
-* <a href='https://shiym.top/article/5d312595' target='_blank'>数据挖掘与大数据分析</a> - 2022-12-27
-* <a href='https://shiym.top/article/28d5cef4' target='_blank'>概率论与数理统计</a> - 2022-12-24
-* <a href='https://shiym.top/article/dbeddcc1' target='_blank'>计算机操作系统</a> - 2023-07-01
-* <a href='https://shiym.top/article/f1b79b2a' target='_blank'>金融衍生工具</a> - 2023-07-01
-<!-- END_SECTION:blog -->
 
 ### 📈 GitHub Statistics
 
