@@ -2,7 +2,7 @@
 
 **Ace Top Talent Intern @ Dots · Incoming PhD @ UQ**
 
-At Dots (Xiaohongshu) I work on abstract reasoning for ARC-AGI-2 and ARC-AGI-3; dots3-note Preview reached about 76.8% on the verified open-weight ARC-AGI-2 track ([ARC Prize](https://arcprize.org/), ~2026-09-21). My incoming Ph.D. at The University of Queensland is on data agents.
+At Dots (Xiaohongshu) I work on abstract reasoning for ARC-AGI-2 and ARC-AGI-3; dots3-note Preview, which reached about 76.8%, achieved open-source SOTA on the verified ARC-AGI-2 ([ARC Prize](https://arcprize.org/)). My incoming Ph.D. at The University of Queensland is on data agents.
 
 [Website](https://yiming-shi.com/) · [Blog](https://yiming-shi.com/blog/) · [X](https://x.com/yyyyyyyiming) · [Email](mailto:yimingshi666@gmail.com)
 
@@ -12,9 +12,9 @@ At Dots (Xiaohongshu) I work on abstract reasoning for ARC-AGI-2 and ARC-AGI-3; 
 
 ## Experience
 
-- **2025.08–present** — Ace Top Talent Intern, Dots (Xiaohongshu)
+- **2025.08–present** — Ace Top Talent Intern, Dots (Xiaohongshu/RedNote)
 - **2024.07–2025.09** — Research Intern, TSAIL, Tsinghua University
-- **2025.03–2025.08** — Research Intern, Zhipu AI (multimodal understanding)
+- **2025.03–2025.08** — Research Intern, Zhipu AI
 - **2023.05–2024.07** — Research Intern, Center for Future Media, UESTC
 - **2022.11–2023.05** — DevOps, Star Studio, UESTC
 - **2021.08–2025.06** — B.Sc. Computer Science & B.Ec. Finance, Internet+ Dual Degree, UESTC
