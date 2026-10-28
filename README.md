@@ -14,7 +14,7 @@ At Dots (Xiaohongshu) I work on abstract reasoning for ARC-AGI-2 and ARC-AGI-3; 
 
 - **2025.08–present** — Ace Top Talent Intern, Dots (Xiaohongshu)
 - **2025.03–2025.08** — Research Intern, Zhipu AI (multimodal understanding)
-- **2022.11–** — DevOps, Star Studio, UESTC
+- **2022.11–2023.05** — DevOps, Star Studio, UESTC
 - **2021.08–2025.06** — B.Sc. Computer Science & B.Ec. Finance, Internet+ Dual Degree, UESTC
 
 ## Stack
